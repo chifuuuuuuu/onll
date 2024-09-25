@@ -1,6 +1,6 @@
 /*
 RECODE REYZ HAYANASI
-KONTAK ME : 6283181666350
+KONTAK ME : 6289666439789
 YT : @Litzz445
 IG : @reymwmwk112
 REQUEST FITUR CHAT GW
@@ -68,10 +68,10 @@ global.md = 'KyuuBotz-V3 Beta'
 //-----[OWNER]
 global.nomorown = '6283196320578'
 global.owner = [
-['6283196320578'], // global owner 0
-['6283196320578'], // global owner 1
-['6283196320578'], // global owner 2
-['6283196320578', 'PannOffc', true] // global owner 3
+['6289666439789'], // global owner 0
+['6289666439789'], // global owner 1
+['6289666439789'], // global owner 2
+['6289666439789', 'PannOffc', true] // global owner 3
 ]
 global.mods = [] // siapa partner mu? 
 global.prems = [] //premium unlimited
